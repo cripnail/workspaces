@@ -41,12 +41,9 @@ class WorkspaceCard extends StatelessWidget {
               onSelected: (value) {
                 switch (value) {
                   case 'edit':
-                    //TODO: Handle edit action
                     break;
                   case 'delete':
-                    // TODO: Handle delete action
                     break;
-                  // TODO: Add handling for other menu items
                 }
               },
             ),
